@@ -9,6 +9,7 @@ twitter_username: bostonou
 
 # Build settings
 markdown: kramdown
+future: false
 
 defaults:
   -
