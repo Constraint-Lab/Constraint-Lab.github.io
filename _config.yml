@@ -1,0 +1,22 @@
+# Site settings
+title: Constraint Lab
+email: boston@constraintlab.com
+description: > # this means to ignore newlines until "baseurl:"
+  Business system exploration
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://constraintlab.com" # the base hostname & protocol for your site
+twitter_username: bostonou
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+permalink: /blog/:title.html
+
