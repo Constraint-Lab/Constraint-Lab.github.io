@@ -4,7 +4,7 @@
 <title>Constraint Lab</title>
 <link href="/atom.xml" rel="self"/>
 <link href="http://localhost:4000/"/>
-<updated>2023-08-11T16:36:49-05:00</updated>
+<updated>2023-08-12T21:25:05-05:00</updated>
 <id>http://localhost:4000</id>
 <author>
 <name></name>
@@ -17,17 +17,20 @@
     
 
     
+
+    
     <entry>
         <title>Biz Idea &amp;#35;1 - Liquor Store Distribution</title>
         <link href="http://localhost:4000/blog/biz-idea-1-liquor-store-distribution.html"/>
         <updated>2023-08-14T00:00:00-05:00</updated>
         <id>http://localhost:4000/blog/biz-idea-1-liquor-store-distribution</id>
-        <content type="html">&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
+        <content type="html">&lt;p&gt;&lt;em&gt;I think of biz ideas all the time, so this is channeling a bit of &lt;a href=&quot;https://www.mirror.co.uk/3am/celebrity-news/ed-sheeran-reveals-uses-songwriting-10358527&quot;&gt;Ed Sheeran’s “write 4-5 songs per day”&lt;/a&gt; with most of them being bad. Just write a bunch of them down without judging the merit.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Industry:&lt;/strong&gt; Liquor Store&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Liquor stores sell commodities. A bottle of Wild Turkey is the same no matter where you buy it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Constraint:&lt;/strong&gt; The market&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Solution:&lt;/strong&gt; Be more efficient, get more volume&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -84,6 +87,7 @@
   &lt;li&gt;Other liquor stores could band together to fight you legally.&lt;/li&gt;
   &lt;li&gt;I think liquor stores get weekly delivery, so inventory advantage probably grows only as you open more satellites.&lt;/li&gt;
 &lt;/ul&gt;
+
 </content>
     </entry>
     

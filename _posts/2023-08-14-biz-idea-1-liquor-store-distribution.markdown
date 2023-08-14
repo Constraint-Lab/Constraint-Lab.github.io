@@ -3,11 +3,12 @@ title: Biz Idea &#35;1 - Liquor Store Distribution
 tags: biz-idea distribution
 ---
 
+_I think of biz ideas all the time, so this is channeling a bit of [Ed Sheeran's "write 4-5 songs per day"][write 4-5] with most of them being bad. Just write a bunch of them down without judging the merit._
+
 ## Context
 
 * **Industry:** Liquor Store
 * **Problem:** Liquor stores sell commodities. A bottle of Wild Turkey is the same no matter where you buy it.
-* **Constraint:** The market
 * **Solution:** Be more efficient, get more volume
 
 ## Idea
@@ -50,3 +51,5 @@ There are opportunities to leverage the ability to manage delivery logistics.
 * The convenience/impulse buy opportunity of driving by a liquor store is strong and unavailable.
 * Other liquor stores could band together to fight you legally.
 * I think liquor stores get weekly delivery, so inventory advantage probably grows only as you open more satellites.
+
+[write 4-5]: https://www.mirror.co.uk/3am/celebrity-news/ed-sheeran-reveals-uses-songwriting-10358527

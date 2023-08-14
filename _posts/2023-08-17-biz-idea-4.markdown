@@ -1,5 +1,5 @@
 ---
-title: Biz Idea &#35;2 - Kid's Play Area
+title: Biz Idea &#35;4 - Multipurpose Play Area
 tags: biz-idea
 ---
 
@@ -8,8 +8,8 @@ _I think of biz ideas all the time, so this is channeling a bit of [Ed Sheeran's
 ## Context
 
 * **Industry:** Childcare/Events
-* **Problem:** Parents looking for kids' activities away from screens, social time, and a break from parenting.
-* **Solution:** Place for kids to have supervised play.
+* **Problem:** You want 
+* **Solution:** Multipurpose area for play
 
 ## Idea
 
