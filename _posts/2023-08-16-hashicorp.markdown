@@ -1,7 +1,7 @@
 ---
 title: Is HashiCorp a Broken Brand?
 tags: hashicorp branding
-excerpt: Is HashiCorp's decision to change their software license a breaking of their brand promise, similar to Halston's fatal deal with JCPenney? This article delves into the implications of HashiCorp's shift from MPL 2.0 to BSL, comparing it to other tech companies like MongoDB and Elastic. Analyzing key factors such as switching costs, scale economies, branding, and network economies, it examines whether HashiCorp's move is a strategic misstep or a well-calculated business decision.
+excerpt: Is HashiCorp's decision to change their software license a breaking of their brand promise, similar to Halston's fatal deal with JCPenney? This article delves into the implications of HashiCorp's shift from MPL 2.0 to BSL, comparing it to other tech companies like Mongodb and Elastic. Analyzing key factors such as switching costs, scale economies, branding, and network economies, it examines whether HashiCorp's move is a strategic misstep or a well-calculated business decision.
 ---
 
 > What it means to have a brand is you’ve made a promise to people. - Seth Godin
@@ -52,8 +52,8 @@ If we use stock price as a way to judge the results of their decision, we can sa
 Given those considerations, I think HashiCorp has made a good business decision. What it means to be OSS is a regular debate, so it's not even clear that a significant portion of the customer base feels that HashiCorp broke a promise (or that they had any other options). And even if that group is significant, HashiCorp's positioning appears strong enough to weather the criticism.
 
 If I were to further explore the decision, here are a few threads I'd follow:
-* What were the competitive environments for Mongo and Elastic, and how similar were they to HashiCorp's?
-* What other strategic decisions might explain the difference between Mongo and Elastic, and what similar options are available for HashiCorp?
+* What were the competitive environments for Mongodb and Elastic, and how similar were they to HashiCorp's?
+* What other strategic decisions might explain the difference between Mongodb and Elastic, and what similar options are available for HashiCorp?
 * HashiCorp lists other companies that have made similar license changes. Apply similar analysis to those companies to help understand the best HashiCorp strategy moving forward.
 
 [Powers at play][powers]:
