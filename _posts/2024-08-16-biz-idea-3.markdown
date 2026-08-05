@@ -1,6 +1,7 @@
 ---
 title: Biz Idea &#35;3 - Moral Debt Collection
 tags: biz-idea win-win
+published: false
 ---
 
 ## Context

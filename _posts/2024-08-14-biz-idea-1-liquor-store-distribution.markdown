@@ -1,6 +1,7 @@
 ---
 title: Biz Idea &#35;1 - Liquor Store Distribution
 tags: biz-idea distribution
+published: false
 ---
 
 _I think of biz ideas all the time, so this is channeling a bit of [Ed Sheeran's "write 4-5 songs per day"][write 4-5] with most of them being bad. Just write a bunch of them down without judging the merit._

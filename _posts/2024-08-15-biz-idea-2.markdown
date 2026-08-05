@@ -1,6 +1,7 @@
 ---
 title: Biz Idea &#35;2 - Kid's Play Area
 tags: biz-idea
+published: false
 ---
 
 _I think of biz ideas all the time, so this is channeling a bit of [Ed Sheeran's "write 4-5 songs per day"][write 4-5] with most of them being bad. Just write a bunch of them down without judging the merit._
