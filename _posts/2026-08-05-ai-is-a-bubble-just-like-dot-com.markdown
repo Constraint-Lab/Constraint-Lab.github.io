@@ -3,6 +3,10 @@ title: AI is a bubble, just like dot-com
 tags: ai
 ---
 
+<blockquote class="twitter-tweet"><a href="https://twitter.com/bostonou/status/2085097056159318275">August 5, 2026</a></blockquote>
+
+<p class="post-disclaimer">My argument, Claude&rsquo;s sentences. It won some of the arguments along the way. The mistakes are still mine.</p>
+
 Andrej Karpathy has written large language models the way most of us have written CRUD apps. He was a founding member of OpenAI, ran AI at Tesla, and joined Anthropic this spring to train Claude. He wrote nanoGPT and llm.c, the small readable codebases people use to learn how a language model works end to end.
 
 When Anthropic put Claude inside Slack, he called it ["a new paradigm"](https://x.com/karpathy/status/2069547676849557725) — the third major redesign of how humans use these systems. Not a website you visit anymore, not an app you install, but "a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans."

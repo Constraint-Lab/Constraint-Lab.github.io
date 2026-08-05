@@ -157,13 +157,11 @@
     }
 }
 
-.site-colophon {
-    clear: both;
-    padding-top: calc($spacing-unit / 2);
+.post-disclaimer {
+    margin-bottom: $spacing-unit;
     font-size: 14px;
     font-style: italic;
     color: $grey-color;
-    text-align: center;
 }
 
 
