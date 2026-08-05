@@ -16,7 +16,7 @@ As the players complained about the rigors of training in the stifling heat, fut
 
 ---
 
-I consider myself to be a software engineer of average talent with one very useful focus: I hate hard things. Software engineering is full of complexity that is a nightmare to work with. In my experience, most engineers fight this by trying harder to wrangle the complexity. My brain, however, has gotten to the point where it just stops. It refuses to spend any energy trying to figure out some convaluted hairball of complexity.
+I consider myself to be a software engineer of average talent with one very useful focus: I hate hard things. Software engineering is full of complexity that is a nightmare to work with. In my experience, most engineers fight this by trying harder to wrangle the complexity. My brain, however, has gotten to the point where it just stops. It refuses to spend any energy trying to figure out some convoluted hairball of complexity.
 
 Instead, the vast majority of my effort goes to making things easy.
 
