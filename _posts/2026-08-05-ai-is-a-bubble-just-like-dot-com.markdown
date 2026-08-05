@@ -5,7 +5,7 @@ tags: ai
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/bostonou/status/2085097056159318275">August 5, 2026</a></blockquote>
 
-<p class="post-disclaimer">My argument, Claude&rsquo;s sentences. It won some of the arguments along the way. The mistakes are still mine.</p>
+<p class="post-disclaimer">I tested out having Claude generate the final draft. Results were quite clear that people would not read it lol.</p>
 
 Andrej Karpathy has written large language models the way most of us have written CRUD apps. He was a founding member of OpenAI, ran AI at Tesla, and joined Anthropic this spring to train Claude. He wrote nanoGPT and llm.c, the small readable codebases people use to learn how a language model works end to end.
 
