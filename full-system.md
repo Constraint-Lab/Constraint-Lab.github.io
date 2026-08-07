@@ -1,9 +1,8 @@
----
-title: How AI changes our system of work
-tags: ai
----
+> So your company is making thirty-six percent more money from your plant just from installing some robots? Incredible.
+> - Jonah from _The Goal_
 
-> So your company is making thirty-six percent more money from your plant just from installing some robots? Incredible. - Jonah from _The Goal_
+* This is all from the software engineering perspective.
+* In this context, AI/Agents/LLMs are the same thing.
 
 AI is impressive technology, but more interesting to me is how we apply the technology. The fast rollout has some good and some bad. In my experience, no one has done a sufficient job of explaining the rules on determining what's good and what's bad. And I'm not talking about experience reports, vague mandates, or arguments that hand-wave the important details.
 
@@ -32,33 +31,33 @@ Put succinctly: AI can, by the process of generating and testing hypotheses, che
 
 ## What is the limitation AI diminishes?
 
-All software is a hypothesis: "I predict that this set of instructions will result in this behavior." If you tried to randomly generate instruction sets, you'd be surprised if you could even get something that had the proper syntax, let alone behavior. Every plausible set of instructions required human effort and understanding.
+All software is a hypothesis: "I predict that this set of intructions will result in this behavior." If you tried to randomly generate instruction sets, you'd be surprised if you could even get something that had the proper syntax, let alone behavior. Every plausible set of instructions required human effort and understanding.
 
 Restated in our AI language, generating a reasonable hypothesis is expensive because it requires human effort and understanding. Validating a hypothesis is expensive because it is potentially risky and requires human effort and understanding. Depending on the context, AI has made those statements mostly false or completely false.
 
 ## What rules helped us bypass the limitation?
 
-#### 1. We route work to get the most efficient use of human effort.
+1. We route work to get the most efficient use of human effort.
 
 Take code reviews. If it's a simple, safe change, ~anyone can sign off. If it's risky or complex, get a principal involved. Don't submit half completed code for review, unless there's a specific reason you need help at that point. Prefer reviews from someone who has context, so we don't require the extra human effort of gaining context.
 
-#### 2. We use linters.
+2. We use linters.
 
 Here go a bunch of rules to amortize the cost of human effort that goes into deciding things like coding style. Let's answer this question once so we never have to spend human effort on it again. Let's make it automatic so no one ever has to think about it again.
 
-#### 3. We have upfront design.
+3. We have upfront design.
 
 It's expensive to build the wrong thing. The further a design gets into production, the more human effort required to pull it back.
 
-#### 4. We reject upfront design.
+4. We reject upfront design.
 
 It's expensive to design a bunch of things on paper that don't translate to code and/or end up never getting built.
 
-#### 5. We use automated testing, canaries, and phased rollouts.
+5. We use automated testing, canaries, and phased rollouts.
 
 We're not sure our code is correct, so we verify it against reality. How we verify is determined by cost and value. Unit tests are low on the cost scale but also low on the value scale. Production is the opposite.
 
-#### 6. Risk separated code
+6. Risk separated code
 
 Config changes require approvals from multiple principals. A typo on the careers page gets a "LGTM". Credit card processing is a completely separate org with access strictly gated.
 
@@ -68,7 +67,7 @@ This isn't an exhaustive list of rules nor does it explain every reason the rule
 
 Before figuring out the new rules, we should see that our old rules are built on an important assumption. Because every reasonable hypothesis required human effort/understanding, you could assume human understanding + reasonable hypothesis always traveled together. It was safe to use "this is reasonable" interchangeably with "some human understands this."
 
-*That assumption is **totally broken**. It is not true anymore at all.*
+*That assumption is _totally broken_. It is not true anymore at all.*
 
 Code review approval? Could be Alice, could be Claude.
 
@@ -80,6 +79,6 @@ Code reviews assumed there was a human on the other side we could jump on a call
 
 ## What are the new rules?
 
-Answering this is a lot of work. The new rules aren't determined by blindly negating the old rules. Getting rid of code reviews and just shoving all the commits on main _might_ work, but other parts of the system would need to change. And code reviews are not just about ensuring correctness, they're also about security/accountability. So if we get rid of code reviews, we need to replace all of the reasons that rule was there. We're changing a system of work, so any local changes have to be weighed against their impact on the entire system.
+Answering this is a lot of work. The new rules aren't determined by blindly negating the old rules (e.g. no code reviews, just shove all the commits on main). We're changing a system of work, so any local changes have to be weighed against their impact on the entire system.
 
 As I mentioned, it's a lot of work, so that will be the work of the next post.
