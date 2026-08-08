@@ -76,7 +76,7 @@ PR that passes all the tests? Could be Bob, could be Codex.
 
 Ten page design doc? Definitely an LLM.
 
-Code reviews assumed there was a human on the other side we could jump on a call with and explain how it works. We assumed that the twenty commits going out in the next release were backed by ~20 people who understood each commit. It was safe for our all of our rules to assume this, so every rule potentially needs to be changed. This assumption was load-bearing (a human person typed that, relax, it's just a cheap joke).
+Code reviews assumed there was a human on the other side we could jump on a call with and explain how it works. We assumed that the twenty commits going out in the next release were backed by ~20 people who understood each commit. It was safe for all of our rules to assume this, so every rule potentially needs to be changed. This assumption was load-bearing (a human person typed that, relax, it's just a cheap joke).
 
 ## What are the new rules?
 
