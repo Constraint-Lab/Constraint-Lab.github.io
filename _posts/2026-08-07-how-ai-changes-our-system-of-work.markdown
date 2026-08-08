@@ -80,6 +80,6 @@ Code reviews assumed there was a human on the other side we could jump on a call
 
 ## What are the new rules?
 
-Answering this is a lot of work. The new rules aren't determined by blindly negating the old rules. Getting rid of code reviews and just shoving all the commits on main _might_ work, but other parts of the system would need to change. And code reviews are not just about ensuring correctness, they're also about security/accountability. So if we get rid of code reviews, we need to replace all of the reasons that rule was there. We're changing a system of work, so any local changes have to be weighed against their impact on the entire system.
+Answering this is a lot of work. The new rules aren't determined by blindly negating the old rules. Getting rid of code reviews and just shoving all the commits on main _might_ work, but other parts of the system would need to change. And code reviews are not just about ensuring correctness, they're also about security/accountability. So if we get rid of code reviews, we need to satisfy all of the reasons that rule was there. We're changing a system of work, so any local changes have to be weighed against their impact on the entire system.
 
 As I mentioned, it's a lot of work, so that will be the work of the next post.
