@@ -20,11 +20,11 @@ Eli Goldratt's four questions of new tech seem like the way to get the rules I'm
 
 There are a few different ways I'd describe it, depending on how abstract I need to be:
 
-1. AI is good at cheaply generating plausible hypotheses.
-2. AI is good at cheaply testing hypotheses.
-3. AI is good at taking loosely structured data and transforming it into differently structured data.
+1. AI is good at taking loosely structured data and transforming it into differently structured data.
+2. AI is good at cheaply generating plausible hypotheses.
+3. AI is good at cheaply testing hypotheses.
 
-The connection is, the transformation in step 2 is not guaranteed correct. It has to be validated against reality. That process is just a small, scientific experiment. Therefore, the output of the transformation is an hypothesis.
+The connection is, the transformation in step 1 is not guaranteed correct. It has to be validated against reality. That process is just a small, scientific experiment. Therefore, the output of the transformation is an hypothesis.
 
 AI is very good at generating a reasonable hypothesis, testing it against whatever reality it can access, and then creating a new hypothesis based on the results.
 
